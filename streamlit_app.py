@@ -397,5 +397,3 @@ st.caption(
     "not medical recommendations. Shopify remains responsible for real products, "
     "accounts, orders, payments, and Cash on Delivery."
 )
-
-streamlit>=1.57,<2.0
